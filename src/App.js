@@ -73,8 +73,6 @@ function App() {
         </div>
         :
         <div>Loading...
-          <div onClick={() => console.log(users)}>button
-          </div>
         </div>
       }
     </div>
