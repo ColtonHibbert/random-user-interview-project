@@ -1,38 +1,84 @@
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row
+}
+
+.summary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 65%;
+  height: 75vh;
+  margin-left: 10vw;
+}
+
+.pagination-button {
+  width: 30px;
+  height: 30px;
+  background-color: lightgray;
+  border-radius: 2px;
+  margin: .25rem;
+  cursor: pointer;
+}
+
+.pagination-button:hover{
+  background-color: lightskyblue;
+}
+
+.entries-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  border: solid black 1px;
+  overflow-y: scroll;
+}
+
+.summary-entry {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  padding: 5px;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.summary-entry:hover {
+  background-color: lightblue;
+}
+
+.ph4px {
+  margin-right: 4px;
+  margin-left: 4px;
+}
+
+.large-pic {
+  height: auto;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+
+.profile {
+  margin-top: 2rem;
+}
+
+.back {
+  background-color: red;
   color: white;
+  width: 40px;
+  cursor: pointer;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.justify-center {
+  justify-content: center;
 }
