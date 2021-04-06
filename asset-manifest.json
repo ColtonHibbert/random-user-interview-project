@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/random-user-interview-project/static/css/main.61308b8f.chunk.css",
+    "main.js": "/random-user-interview-project/static/js/main.12854122.chunk.js",
+    "main.js.map": "/random-user-interview-project/static/js/main.12854122.chunk.js.map",
+    "runtime-main.js": "/random-user-interview-project/static/js/runtime-main.06ca2bb0.js",
+    "runtime-main.js.map": "/random-user-interview-project/static/js/runtime-main.06ca2bb0.js.map",
+    "static/js/2.54b8fe02.chunk.js": "/random-user-interview-project/static/js/2.54b8fe02.chunk.js",
+    "static/js/2.54b8fe02.chunk.js.map": "/random-user-interview-project/static/js/2.54b8fe02.chunk.js.map",
+    "static/js/3.67513865.chunk.js": "/random-user-interview-project/static/js/3.67513865.chunk.js",
+    "static/js/3.67513865.chunk.js.map": "/random-user-interview-project/static/js/3.67513865.chunk.js.map",
+    "index.html": "/random-user-interview-project/index.html",
+    "static/css/main.61308b8f.chunk.css.map": "/random-user-interview-project/static/css/main.61308b8f.chunk.css.map",
+    "static/js/2.54b8fe02.chunk.js.LICENSE.txt": "/random-user-interview-project/static/js/2.54b8fe02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06ca2bb0.js",
+    "static/js/2.54b8fe02.chunk.js",
+    "static/css/main.61308b8f.chunk.css",
+    "static/js/main.12854122.chunk.js"
+  ]
+}
