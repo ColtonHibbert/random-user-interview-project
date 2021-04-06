@@ -2,7 +2,7 @@ import { useState, useEffect }  from "react";
 import './App.css';
 import SummaryList from "./SummaryList";
 import Profile from "./Profile.js";
-
+ 
 function App() {
 
   const [ loading, setLoading ] = useState(true);
