@@ -27,7 +27,7 @@ function App() {
 
   useEffect(() => {
     fetch(
-      "https://polar-earth-69438.herokuapp.com/getuserdata/?results=1000&page=1&seed=abc&exc=gender,login,registered,id,nat",
+      "https://serene-plains-88986.herokuapp.com/getuserdata/?results=1000&page=1&seed=abc&exc=gender,login,registered,id,nat",
       {
           method:"GET", 
           headers: {

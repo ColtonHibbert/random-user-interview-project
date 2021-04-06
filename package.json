@@ -1,8 +1,8 @@
 {
-  "name": "clozd-interview-project",
+  "name": "random-user-interview-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://coltonhibbert.github.io/clozd-interview-project/",
+  "homepage": "https://coltonhibbert.github.io/random-user-interview-project/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",

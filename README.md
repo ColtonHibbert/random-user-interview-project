@@ -1,1 +1,1 @@
-https://coltonhibbert.github.io/clozd-interview-project/
+https://coltonhibbert.github.io/random-user-interview-project/
